@@ -28,3 +28,9 @@ pip install -r requirements.txt
 ## Acknowledgments
 
 This project is inspired by the "Artificial Intelligence A-Z 2023: Build 5 AI (incl. ChatGPT)" course on Udemy. Special thanks to the course instructors and contributors for the comprehensive materials and guidance.
+
+
+
+
+https://github.com/Padmanabh03/Lunar-Lander-Deep_Q_Learning/assets/71133619/d1d93fdc-5e80-4e85-ab28-ba8889b62c70
+
