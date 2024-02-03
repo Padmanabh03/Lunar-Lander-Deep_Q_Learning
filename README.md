@@ -14,7 +14,7 @@ The script includes the following key components:
 - **Initial Configuration**: Parameters for the state size, action size, and randomness seed are initialized, forming the basis of the neural network's learning capability.
 
 - **Training Mechanism**: The script is expected to contain the training loop, loss function, and optimizer, essential for training the agent in the "Lunar Lander" game.
-- 
+  
 ## Installation
 
 To set up the project environment:
